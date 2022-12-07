@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kraisoft-test-assignment/static/css/main.5507d73b.css",
+    "main.js": "/kraisoft-test-assignment/static/js/main.78afd95e.js",
+    "static/js/787.8027ccf3.chunk.js": "/kraisoft-test-assignment/static/js/787.8027ccf3.chunk.js",
+    "index.html": "/kraisoft-test-assignment/index.html",
+    "main.5507d73b.css.map": "/kraisoft-test-assignment/static/css/main.5507d73b.css.map",
+    "main.78afd95e.js.map": "/kraisoft-test-assignment/static/js/main.78afd95e.js.map",
+    "787.8027ccf3.chunk.js.map": "/kraisoft-test-assignment/static/js/787.8027ccf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5507d73b.css",
+    "static/js/main.78afd95e.js"
+  ]
+}
